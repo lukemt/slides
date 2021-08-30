@@ -4,6 +4,8 @@ ratio: 16:9
 title: Bootcamp 3. Woche
 ---
 
+<!-- markdownlint-configure-file { "ul-style": { "style": "asterisk" } } -->
+
 <!-- _class: sublead -->
 
 # 🐠 week 3
@@ -20,12 +22,12 @@ title: Bootcamp 3. Woche
 
 ## What is JavaScript?
 
-- _“makes web pages alive”_.
-- programs are scripts
-- no need for preparation or compilation
-- run automatically
-- only in the browser?
-- Why *Java*Script
+* _“makes web pages alive”_.
+* programs are scripts
+* no need for preparation or compilation
+* run automatically
+* only in the browser?
+* Why *Java*Script
 
 ---
 
@@ -33,9 +35,9 @@ title: Bootcamp 3. Woche
 
 ## 🤗 my first program
 
-- Hello World! mit JavaScript
-- <script> - Tag
-- .js files
+* Hello World! mit JavaScript
+* \<script> - Tag
+* .js files
 
 ---
 
@@ -49,9 +51,9 @@ title: Bootcamp 3. Woche
 
 ## 🛣 Code structure
 
-- Statements
-- Semicolons
-- Comments
+* Statements
+* Semicolons
+* Comments
 
 ---
 
@@ -59,13 +61,13 @@ title: Bootcamp 3. Woche
 
 ## 🎁 Variables
 
-- Variables
-- Types of variables
-  - number · string · boolean ...
-- naming
-  - camelCase · PascalCase · snake_case · kebab-case
-- var · let · const
-  - SCREAMING_SNAKE_CASE
+* Variables
+* Types of variables
+  * number · string · boolean ...
+* naming
+  * camelCase · PascalCase · snake_case · kebab-case
+* var · let · const
+  * SCREAMING_SNAKE_CASE
 
 ---
 
@@ -73,11 +75,12 @@ title: Bootcamp 3. Woche
 
 ## 🛠 Operators
 
-- Addition +
-- Subtraction -
-- Multiplication \*
-- Division /
-- Remainder %
+* Addition +
+* Subtraction -
+* Multiplication \*
+* Division /
+
+* Remainder %
 
 ---
 
@@ -91,11 +94,11 @@ title: Bootcamp 3. Woche
 
 ## ⚖️ Comparisons
 
-- Greater/less than: a > b, a < b
-- Greater/less than or equals: a >= b, a <= b
-- Equals: a == b
-  - _==_ vs _=_
-- Not equal: a != b
+* Greater/less than: a > b, a < b
+* Greater/less than or equals: a >= b, a <= b
+* Equals: a == b
+  * _==_ vs _=_
+* Not equal: a != b
 
 ---
 
@@ -103,11 +106,11 @@ title: Bootcamp 3. Woche
 
 ## 🖖 Conditionals
 
-- The “if” statement
-  - What it does
-  - Without curly braces
-  - With curly braces
-- else block
+* The “if” statement
+  * What it does
+  * Without curly braces
+  * With curly braces
+* else block
 
 ---
 
