@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "slides": "npx marp -sw --theme ./theme.css .",
+    "build": "marp --input-dir ./slides --output ./build",
+    "slides": "npx marp -sw --theme ./theme.css ./slides",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
